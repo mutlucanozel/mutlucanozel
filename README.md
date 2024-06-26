@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi , I'm Mutlu Can OZEL</h1>
-<h3 align="center">An iOS developer who improves himsef day by day.</h3>
+<h3 align="center">A Software developer who improves himsef day by day.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ef119eb18ce8c96458b0691cafa4a2e3735814d20c0e6bdb84eadc108c6d991/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f6d656469612f33323039383461396361353862336337333237346339323539656366366465382e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutlucanozel&label=Profile%20views&color=0e75b6&style=flat" alt="mutlucanozel" /> </p>
 
